@@ -1,0 +1,6 @@
+[submodule "zachem"]
+	path = zachem
+	url = git@github.com:NoverLord13/zachem.git
+[submodule "First"]
+	path = First
+	url = git@github.com:NoverLord13/First.git
